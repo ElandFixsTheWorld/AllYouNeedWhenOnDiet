@@ -3,14 +3,13 @@
 buildscript {
     repositories {
         mavenCentral()
-//        maven {
-//            url ("https://oss.sonatype.org/content/repositories/snapshots/")
-//        }
+        jcenter()
         google()
     }
-//    dependencies {
-//        classpath ("io.realm:realm-gradle-plugin:10.11.1")
-//    }
+    dependencies {
+        classpath ("io.realm:realm-gradle-plugin:10.11.1")
+        classpath ("io.realm:realm-gradle-plugin:10.13.3-transformer-api")
+    }
 }
 
 plugins {
