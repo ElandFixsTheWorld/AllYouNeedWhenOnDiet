@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AllYouNeedWhenOnDiet</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="water">Water Intake</string>
+    <string name="body_fat">Body Fat</string>
+    <string name="sleeping_hour">Sleeping hours</string>
+    <string name="day_wight">Day wight</string>
+    <string name="night_weight">Night weight</string>
+</resources>
